@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UAToggleDebugHUD" loc="Toggle Debug UI"/>
+        </actions>
+    </inputs>
+    <preset>
+        <input name="UAToggleDebugHUD">
+			<btn name="kInsert"/>
+		</input>
+    </preset>
+</modded_inputs>
